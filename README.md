@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Link Challenge Preview ...
+Link Challenge Preview [...](https://mostafahusseinali20.github.io/Blog-preview-card/)
 
 Thanks for checking out this front-end coding challenge.
 
